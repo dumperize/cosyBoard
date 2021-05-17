@@ -10,4 +10,4 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GITHUB_PROJECT_URL: https://github.com/dumperize/cosyBoard/projects/1
-        GITHUB_PROJECT_COLUMN_NAME: To Do
+        GITHUB_PROJECT_COLUMN_NAME: Темы к обсуждению
